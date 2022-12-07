@@ -1,12 +1,16 @@
 # Belly-Button-Biodiversity
 
 ## Overview of Project
-
+Belly button bacteria is being researched by various entities to determine abundancy and feasible uses. To assist the research a group of volunteers provided belly button bacteria samples and demographic information.  A webpage is needed to enable users to pull and analyze the data set that includes bacteria, demographics and drivers.  
 
 ### Purpose
+The purpose of this project is to build a webpage dashboard that includes a filter on Test Subject ID No. To filter a specific test subject the user clicks a dropdown selection box under Test Subject ID No. and selects the ID. For each filtered test subject the page will show demographic info, top 10 bacteria cultures found shown in a bar chart, belly button washing frequency shown in a gauge chart and bacteria cultures per sample shown in a bubble chart.
 
 ## Results
+The webpage and filter capability as shown below was successfully constructed.  The data set resides in a JSON Source File and the following 
+
+
+![web_page](https://raw.githubusercontent.com/JBro-Birds/Belly-Button-Biodiversity/master/images/web_page.png)
 
 ## Summary
 
-![web_page](https://raw.githubusercontent.com/JBro-Birds/Belly-Button-Biodiversity/master/images/web_page.png)
