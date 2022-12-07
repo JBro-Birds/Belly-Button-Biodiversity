@@ -1,4 +1,4 @@
 # Belly-Button-Biodiversity
 
 
-![filters_webpage](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filters_webpage.png)
+![web_page](https://raw.githubusercontent.com/JBro-Birds/Belly-Button-Biodiversity/master/images/web_page.png)
