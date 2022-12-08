@@ -7,10 +7,12 @@ Belly button bacteria is being researched by various entities to determine abund
 The purpose of this project is to build a webpage dashboard that includes a filter on Test Subject ID No. To filter a specific test subject the user clicks a dropdown selection box under Test Subject ID No. and selects the ID. For each filtered test subject the page will show demographic info, top 10 bacteria cultures found shown in a bar chart, belly button washing frequency shown in a gauge chart and bacteria cultures per sample shown in a bubble chart.
 
 ## Results
-The webpage and filter capability as shown below was successfully constructed.  The data set resides in a JSON Source File and the following 
+The webpage and filter capability as shown below was successfully constructed using HTML, Bootstrap, CSS, JavaScript and JSON.  The data set resides in a JSON Source File. 
 
 
 ![web_page](https://raw.githubusercontent.com/JBro-Birds/Belly-Button-Biodiversity/master/images/web_page.png)
 
 ## Summary
+
+
 
