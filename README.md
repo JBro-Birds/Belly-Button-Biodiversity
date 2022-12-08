@@ -13,6 +13,6 @@ The webpage and filter capability as shown below was successfully constructed us
 ![web_page](https://raw.githubusercontent.com/JBro-Birds/Belly-Button-Biodiversity/master/images/web_page.png)
 
 ## Summary
-
+The webpage and filter capability gives users the ability to view the volunteer sample set more efficiently for research and analysis purposes.  In the future this webpage can be further developed and enhanced with additional, useful charts that slice and dice the data as well as if there are additional samples and/or sample types provided for research purposes.
 
 
