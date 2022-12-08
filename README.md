@@ -1,7 +1,7 @@
 # Belly-Button-Biodiversity
 
 ## Overview of Project
-Belly button bacteria is being researched by various entities to determine abundancy and feasible uses. To assist the research a group of volunteers provided belly button bacteria samples and demographic information.  A webpage is needed to enable users to pull and analyze the data set that includes bacteria, demographics and drivers.  
+Belly button bacteria is being researched by various entities to determine abundancy and feasible uses. To assist the research a group of volunteers provided belly button bacteria samples and demographic information.  A webpage is needed to enable users to pull and analyze the data set that includes bacteria and demographic attributes.  
 
 ### Purpose
 The purpose of this project is to build a webpage dashboard that includes a filter on Test Subject ID No. To filter a specific test subject the user clicks a dropdown selection box under Test Subject ID No. and selects the ID. For each filtered test subject the page will show demographic info, top 10 bacteria cultures found shown in a bar chart, belly button washing frequency shown in a gauge chart and bacteria cultures per sample shown in a bubble chart.
